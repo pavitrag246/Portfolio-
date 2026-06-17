@@ -1,6 +1,6 @@
 # Portfolio
 
-## 🚀 [View the Portfolio](https://pavitrag246.github.io/Portfolio-/)
+## 🚀 [View My Portfolio](https://pavitrag246.github.io/Portfolio-/)
 
 # About
 
