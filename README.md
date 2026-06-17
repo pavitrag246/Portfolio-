@@ -1,3 +1,11 @@
+# Portfolio
+
+## 🚀 [View the Portfolio](https://pavitrag246.github.io/Portfolio-/)
+
+# About
+
+This is my personal portfolio website built using React.js, HTML, CSS, JavaScript, and Bootstrap. The portfolio showcases my skills, education, projects, and contact information.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
